@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @sumarius56
 - 👀 I’m interested in web-development
-- 🌱 I’m currently learning Next JS
+- 🌱 I’m currently developing in  MERN Stack.
 - 💞️ I’m looking to collaborate on  next projects !
 - 📫 How to reach me  https://www.linkedin.com/in/suciumariuscornel/
 
