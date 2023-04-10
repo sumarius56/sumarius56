@@ -1,7 +1,5 @@
 - 👋 Hi, I’m @sumarius56
-- 👀 I’m interested in web-development
-- 🌱 I’m currently developing in  MERN Stack.
-- 💞️ I’m looking to collaborate on  next projects !
+- 👀 I’m working in web-development
 - 📫 How to reach me  https://www.linkedin.com/in/suciumariuscornel/
 
 <!---
